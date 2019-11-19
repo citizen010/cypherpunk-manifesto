@@ -1,3 +1,5 @@
+![MIT license](https://img.shields.io/badge/license-MIT-blue)
+
 ## A Cypherpunk's Manifesto
 
 by _Eric Hughes_
