@@ -1,6 +1,6 @@
 ## A Cypherpunk's Manifesto
 
-by [Eric Hughes](ftp://soda.berkeley.edu/pub/cypherpunks/people/hughes.html)
+by [Eric Hughes](http://soda.berkeley.edu/pub/cypherpunks/people/hughes.html)
 
 Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn't want the whole world to know, but a secret matter is something one doesn't want anybody to know. Privacy is the power to selectively reveal oneself to the world.
 
@@ -28,6 +28,6 @@ The Cypherpunks are actively engaged in making the networks safer for privacy. L
 
 Onward.
 
-Eric Hughes [<hughes@soda.berkeley.edu>](ftp://soda.berkeley.edu/pub/cypherpunks/people/hughes.html)
+Eric Hughes [<hughes@soda.berkeley.edu>](http://soda.berkeley.edu/pub/cypherpunks/people/hughes.html)
 
 9 March 1993 
